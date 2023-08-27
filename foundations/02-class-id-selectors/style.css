@@ -1,0 +1,15 @@
+#two{
+    font-size: 36px;
+    color: blue;
+}
+#four{
+    font-size: 24px;
+    font-weight: bold;
+    background-color:lightgreen;
+}
+.odd{
+    background-color:hsla(313, 71%, 66%, 0.692);
+}
+.third{
+    font-size: 24px;
+}

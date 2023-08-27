@@ -1,0 +1,19 @@
+.click_container{
+    
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+   
+}
+.click{
+    font-size:  28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif ;
+}
+.button_container{
+    border: 2px solid black;
+    
+    padding: 10px;
+    background-color: white;
+
+}
